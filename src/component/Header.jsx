@@ -10,12 +10,13 @@ const Header = () => {
       </div>
       <div>
 <ul>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
+  <li><a href="">home</a></li>
+  <li><a href="">articals</a></li>
+  <li><a href="">pages</a></li>
+  <li><a href="">priceing</a></li>
+  <li><a href="">FAQ</a></li>
 </ul>
+<button>sign in</button>
       </div>
     </header>
 
