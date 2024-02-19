@@ -5,7 +5,7 @@ import Card from './component/Card';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <header className="App-header gap-y-3">
         <Card/>
         <Card/>
         <Card/>
